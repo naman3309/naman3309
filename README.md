@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naman3309" alt="naman3309" /></a> </p>
 
-- 🔭 I’m currently working on **ASP .Net Framework API**
+- 🔭 I’m currently working on **Event Booking API**
 
 - 🌱 I’m currently learning **Flutter Framework**
 
